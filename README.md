@@ -44,3 +44,6 @@ I'm from Azerbaijan
 Discord: faraj#1337 \
 Twitter: [@farajyeet](https://twitter.com/farajyeet) \
 Email:   [farajj1337@outlook.com](mailto:farajj1337@outlook.com)
+
+## Credits
+https://github.com/Mempler
