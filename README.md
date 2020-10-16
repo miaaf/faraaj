@@ -14,6 +14,7 @@ I'm from Azerbaijan
 <img style="padding: 1.5px" align="left" alt="Python 3" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//py.svg"/>
 <img style="padding: 1.5px" align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//typescript.svg"/>
 <img style="padding: 1.5px" align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//javascript.svg"/>
+<img style="padding: 1.5px" alt="Sass" width="31px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//sass.svg"/>
 
 ### IDEs
 
