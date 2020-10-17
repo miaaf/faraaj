@@ -1,7 +1,5 @@
 ## About me
-Hello, I'm faraj
-I'm 16 years old programmer
-I'm from Azerbaijan
+Hello, I am 16 years old programmer I'm interested in C++, C#, Kotlin
 
 ## Languages, IDEs and Tools
 
