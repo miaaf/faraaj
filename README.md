@@ -21,22 +21,14 @@ Hello, I am 16 years old programmer I'm interested in C++, C#, Kotlin
 <img alt="Jetbrains CLion + RustExtension" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//clion.png"/>
 <img alt="Intellij Idea" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//intellij-idea.svg"/>
 
-### Tools (not all included)
+### Tools
 
-<img align="left" alt="MariaDB" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//mariadb.png"/>
 <img align="left" alt="Redis" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//redis.svg"/>
 <img align="left" alt="Docker" width="38px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//docker.png"/>
-<img align="left" alt="NGiNX" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//nginx.svg"/>
-<img align="left" alt="Datadog" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//datadog.png"/>
 <img align="left" alt="Digital Ocean" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//digitalocean.svg"/>
 <img align="left" alt="Discord" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//discord.svg"/>
-<img align="left" alt="CMake" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//cmake.svg"/>
-<img align="left" alt="Meson" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//meson.svg"/>
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//git.svg"/>
 <img align="left" alt="Powershell" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//powershell.svg"/>
-<img align="left" alt="Gitkraken" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//gitkraken.svg"/>
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//react.svg"/>
-<img alt="Teamspeak 3" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//ts3.png"/>
 
 ## Contact me
 Discord: faraj#1337 \
