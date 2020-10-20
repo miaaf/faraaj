@@ -30,7 +30,7 @@ Hello, I am 16 years old programmer I'm interested in C++, C#, Kotlin
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//git.svg"/>
 <img align="left" alt="Powershell" width="35px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//powershell.svg"/>
 
-## Contact me
+### Contact me
 Discord: faraj#1337 \
 Twitter: [@farajyeet](https://twitter.com/farajyeet) \
 Email:   [farajj1337@outlook.com](mailto:farajj1337@outlook.com)
