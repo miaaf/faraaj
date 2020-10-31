@@ -13,4 +13,5 @@ Languages: **C++, C#, Kotlin**
 
 
 
-[![faraj](https://github-readme-stats.vercel.app/api?username=faraaj&show_icons=true&count_private=true&theme=dark)](https://faraaj.github.io) https://github-readme-stats.vercel.app/api/top-langs/?username=faraaj
+[![faraj](https://github-readme-stats.vercel.app/api?username=faraaj&show_icons=true&count_private=true&theme=dark)](https://faraaj.github.io) 
+[![faraj](https://github-readme-stats.vercel.app/api/top-langs/?username=faraaj)](https://faraaj.github.io)
