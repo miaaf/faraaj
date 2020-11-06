@@ -2,7 +2,7 @@
 
  I am 16 years old programmer I'm interested in C++, C#, Kotlin. I´m based in Turkey.
 
-Since 2018, I've partnered with different people, made good friends, met good people, collaborated in most places and now I'm here! ✨
+Since 2017, I've partnered with different people, made good friends, met good people, collaborated in most places and now I'm here! ✨
 
 ### What I'm focusing on 👨‍💻
 
